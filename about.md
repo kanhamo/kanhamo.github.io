@@ -4,14 +4,30 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/kenhamo.jpg" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+<h3>関西鍵盤ハーモニカオーケストラは、2018年9月に誕生した鍵盤ハーモニカだけのオーケストラです。</h3>
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+## 募集条件
+- 鍵盤ハーモニカが好きな方
+- 鍵盤ハーモニカをご準備できる方
+- メールでのやりとりが可能な方
+- 鍵盤楽器経験のある方（初心者の方はレッスンをご用意しています）
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+## 活動場所
+- 主にJR高槻駅前のクロスパル高槻にて（練習場所は変更する場合があります）
+
+## 活動内容
+- 定期練習月1回2～3時間（練習日時はメンバーの都合を考慮して決めています）
+
+## 練習参加費
+- 1回1000円（別途入会金3000円）
+
+<br>
+<br>
+
+一緒に演奏する仲間を募集しています。
+<br>
+まずはお気軽に無料体験練習にお越しください。
+どの楽器を買えばいいのか分からない方はお気軽にお問合せ下さい。
