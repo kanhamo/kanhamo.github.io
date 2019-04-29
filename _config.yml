@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: "関西鍵盤ハーモニカオーケストラ"
-subtitle: ""
+title: ""
+subtitle: "関西鍵盤ハーモニカオーケストラ"
 email: kenhamo.orch@gmail.com
 name: kenhamo
 description: 2018年9月、全国的にも大変珍しい鍵盤ハーモニカだけのオーケストラが誕生しました。
