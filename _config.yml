@@ -48,11 +48,11 @@ jekyll-archives:
 
 # Category descriptions (for archive pages)
 descriptions:
-  - cat: jekyll
-    desc: "Posts describing Jekyll setup techniques."
+  - cat: Others
+    desc: "ご挨拶"
 
-  - cat: dummy
-    desc: "Just some placeholder posts, lorem ipsum and the rest."
+  - cat: Activities
+    desc: "関西鍵盤ハーモニカオーケストラの活動内容を報告します"
 
 # Social icons and sharing options
 #
@@ -80,7 +80,7 @@ social:
   - name: Facebook
     icon: facebook
     username: kenhamo.orch
-    url:https://www.facebook.com/kenhamo.orch/
+    url: https://www.facebook.com/kenhamo.orch
     desc: Friend me on Facebook
     share: true
 
