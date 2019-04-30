@@ -1,9 +1,71 @@
 ---
-layout: post
+layout: page
 title: Contact
 permalink: /Contact/
-public: true
 ---
-
 <img src="{{ site.baseurl }}/assets/kenhamo.jpg" class="profile">
 
+お問い合わせの際には、先によくある質問をご確認ください。
+
+## よくある質問
+
+- **子供でも参加できますか？**  
+→参加できます。  ですが、子供向けの活動ではありませんので、大人と同じ条件で参加できる方に限ります。
+
+- **子供が使っていた鍵盤ハーモニカでもいいですか？**  
+→大丈夫です。  
+ただし、出ない音があったり、ピッチが狂っている場合は、修理もしくは、買い替えをお願いしています。  
+また、子供用の楽器は音域が狭いので、なるべく37鍵か44鍵の楽器をご用意される事をお勧めしています。  
+
+ 
+- **子供が鍵盤ハーモニカをまだ学校で使っているので共用でもいいですか？**  
+→体験練習の時は、それでも大丈夫です。  
+ですがご入団後は、ご自身用にもう一台ご用意される事をお勧めします。  
+定例練習は月1回ですので、基本的には個人練習をして頂く事を前提としており、上達の為にも常にお手元に楽器があることが望ましいです。
+
+- **簡単な楽譜は読めますが、難しい楽譜は自信がありません。それでも参加できますか？**  
+→鍵盤ハーモニカを愛する心と向上心のある方でしたら大歓迎です。  
+定例練習以外にも個人レッスンを行っており、譜読み指導も行いますので、そちらに積極的にご参加頂ければと思います。  
+  
+- **どの楽器を買えば良いのかわかりません。**  
+→ご相談に乗りますので、お問い合わせ下さい。  
+  
+  
+### 上記で解決しない場合は、以下のフォームからお問い合わせください。
+  
+  
+  
+  
+  <form>
+    <p>お問い合わせはこちらから</p>
+
+    <p><label for="text_field">お名前:</label>
+      <input type="text" id="text_field" /></p>
+
+    <p><label for="text_area">e-mail adress:</label>
+      <textarea id="text_area"></textarea></p>
+
+    <p><label for="select_element">項目:</label>
+      <select name="select_element">
+        <optgroup label="性別">
+          <option value="1">入団希望</option>
+          <option value="2">見学希望</option>
+          <option value="3">その他</option>
+        </optgroup>
+    </select></p>
+
+    <p><label for="radio_buttons">性別:</label>
+      <label>
+        <input type="radio" class="radio" name="radio_button" value="女性" /> 女性
+      </label>
+      <label>
+        <input type="radio" class="radio" name="radio_button" value="男性" /> 男性
+      </label>
+    </p>
+
+    <p><label for="password">お問い合わせ内容:</label>
+      <input type="password" class="password" name="password" />
+    </p>
+
+    <p><input type="submit" value="問い合わせする" /></p>
+  </form>

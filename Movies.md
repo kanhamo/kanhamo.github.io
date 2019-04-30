@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Movies
 permalink: /Movies/
 public: true
