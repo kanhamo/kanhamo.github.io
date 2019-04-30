@@ -33,39 +33,4 @@ permalink: /Contact/
   
 ### 上記で解決しない場合は、以下のフォームからお問い合わせください。
   
-  
-  
-  
-  <form>
-    <p>お問い合わせはこちらから</p>
 
-    <p><label for="text_field">お名前:</label>
-      <input type="text" id="text_field" /></p>
-
-    <p><label for="text_area">e-mail adress:</label>
-      <textarea id="text_area"></textarea></p>
-
-    <p><label for="select_element">項目:</label>
-      <select name="select_element">
-        <optgroup label="性別">
-          <option value="1">入団希望</option>
-          <option value="2">見学希望</option>
-          <option value="3">その他</option>
-        </optgroup>
-    </select></p>
-
-    <p><label for="radio_buttons">性別:</label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="女性" /> 女性
-      </label>
-      <label>
-        <input type="radio" class="radio" name="radio_button" value="男性" /> 男性
-      </label>
-    </p>
-
-    <p><label for="password">お問い合わせ内容:</label>
-      <input type="password" class="password" name="password" />
-    </p>
-
-    <p><input type="submit" value="問い合わせする" /></p>
-  </form>
