@@ -31,6 +31,8 @@ permalink: /Contact/
 →ご相談に乗りますので、お問い合わせ下さい。  
   
   
-### 上記で解決しない場合は、以下のフォームからお問い合わせください。
   
+  
+### 上記で解決しない場合は、[こちら](https://docs.google.com/forms/d/e/1FAIpQLSeOdIlDB3uChvhrr9F543WjyJz2orR1FHCYdYVnwKcQU6wVcg/viewform)からお問い合わせください。
+
 
