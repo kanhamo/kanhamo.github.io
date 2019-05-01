@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About
+title: "楽団について"
 permalink: /about/
 ---
 
 <img src="{{ site.baseurl }}/assets/kenhamo.jpg" class="profile">
 
 
-## About
+## 楽団について
 2018年に誕生した、大阪で初の大規模な鍵盤ハーモニカだけのオーケストラです。  
 初心者も、音楽講師も、子育て中のママも、働く人も、職種・年令・性別関係なく、「鍵盤ハーモニカが好き」という熱い気持ちで、集まったメンバーです。  
 高槻市を拠点に、月1回の定例練習を行っています。  

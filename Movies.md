@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Movies
+title: "動画"
 permalink: /Movies/
 public: true
 ---

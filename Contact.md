@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: "お問い合わせ"
 permalink: /Contact/
 ---
 <img src="{{ site.baseurl }}/assets/kenhamo.jpg" class="profile">

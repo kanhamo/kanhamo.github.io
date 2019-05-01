@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: "スケジュール"
 public: true
 ---
 

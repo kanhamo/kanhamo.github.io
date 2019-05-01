@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join us!
+title: "団員募集"
 permalink: /JoiuUs/
 
 ---
