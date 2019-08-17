@@ -7,7 +7,7 @@ public: true
 
 <img src="{{ site.baseurl }}/assets/kenhamo.jpg" class="profile">
 
-## 演奏動画
+# 演奏動画
 
 ## 2019.07.15 練習風景
 楽団が誕生して、10ヶ月目の練習風景です。  
