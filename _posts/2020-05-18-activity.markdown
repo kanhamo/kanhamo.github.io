@@ -14,4 +14,4 @@ cover: /assets/head.jpg
   
 演奏者の顔の動画ではなく、それぞれの音の波形です。  
 こちらをごらんくださいませ。    
-youtu.be/sHo8jnUwJH4
+[youtu.be/sHo8jnUwJH4](youtu.be/sHo8jnUwJH4)
