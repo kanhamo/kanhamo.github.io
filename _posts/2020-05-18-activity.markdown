@@ -13,5 +13,5 @@ cover: /assets/head.jpg
 鍵盤ハーモニカ11人で、テレワーク演奏してみました。  
   
 演奏者の顔の動画ではなく、それぞれの音の波形です。  
-こちらをごらんくださいませ。    
-[youtu.be/sHo8jnUwJH4](https://youtu.be/sHo8jnUwJH4)
+  
+[こちら](https://youtu.be/sHo8jnUwJH4)をごらんくださいませ。  
