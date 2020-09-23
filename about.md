@@ -29,5 +29,5 @@ permalink: /about/
 - 姉妹グループの姫路鍵盤ハーモニカオーケストラ代表 。
 
 ### SNS
-Twitter:https://twitter.com/kansai_kenhamo
-facebook:https://www.facebook.com/kenhamo.orch/
+[Twitter](https://twitter.com/kansai_kenhamo)
+[Facebook](https://www.facebook.com/kenhamo.orch/)
