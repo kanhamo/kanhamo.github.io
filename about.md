@@ -28,3 +28,6 @@ permalink: /about/
 - 演奏活動のみならず、大阪・兵庫で、ピアノ・鍵盤ハーモニカ講師を務め、作曲・編曲による楽曲提供も行っている。
 - 姉妹グループの姫路鍵盤ハーモニカオーケストラ代表 。
 
+### SNS
+Twitter:https://twitter.com/kansai_kenhamo
+facebook:https://www.facebook.com/kenhamo.orch/
