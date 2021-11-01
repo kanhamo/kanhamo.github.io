@@ -25,6 +25,7 @@ cover: /assets/head.jpg
 <img border="0" src="/assets/20211031-1.jpg">  
 <img border="0" src="/assets/20211031-2.jpg">  
 <img border="0" src="/assets/20211031-3.jpg">  
+<img border="0" src="/assets/20211031-6.jpg">  
 <img border="0" src="/assets/20211031-4.jpg">  
 <img border="0" src="/assets/20211031-5.jpg">  
 
