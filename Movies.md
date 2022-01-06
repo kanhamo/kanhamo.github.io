@@ -22,5 +22,5 @@ NHK2020ソング「カイト（嵐）」
 ##  鍵盤ハーモニカ13台による「剣の舞」
 鍵盤ハーモニカ13台による「剣の舞（ハチャトゥリアン作曲）」です。  
 <div class="frame-wrapper__video">
-  <iframe src="https://youtu.be/_XMtogH5phI" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/_XMtogH5phI" frameborder="0" allowfullscreen></iframe>
 </div>
