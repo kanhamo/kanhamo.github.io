@@ -14,10 +14,13 @@ public: true
 ## カイト（嵐）
 東京オリンピック開催の記念の年に、心を込めて、演奏させていただきました。  
 NHK2020ソング「カイト（嵐）」  
-1人ずつの録音を集めたテレワーク合奏です。  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XCASB76ML1w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
+1人ずつの録音を集めたテレワーク合奏です。    
+<div class="frame-wrapper__video">
+  <iframe src="https://www.youtube.com/embed/XCASB76ML1w" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ##  鍵盤ハーモニカ13台による「剣の舞」
 鍵盤ハーモニカ13台による「剣の舞（ハチャトゥリアン作曲）」です。  
-<iframe width="560" height="315" src="https://youtu.be/_XMtogH5phI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<div class="frame-wrapper__video">
+  <iframe src="https://youtu.be/_XMtogH5phI" frameborder="0" allowfullscreen></iframe>
+</div>
