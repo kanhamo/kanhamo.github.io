@@ -78,7 +78,8 @@
   
 /*--------画像サイズ調整---------*/
 img{
-	width:40%;
+	width:100%;
+  padding: 20px;
 }
 
 /*-----------height調整----------*/
@@ -90,10 +91,10 @@ img{
 
 /*-----------矢印表示----------*/
 .slick-next{
-    right:50px!important;
+    right:10px!important;
 }
 .slick-prev{
-    left: 50px!important;
+    left: 10px!important;
 }
 .slick-arrow{
     width: initial!important;
