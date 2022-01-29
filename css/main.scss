@@ -75,15 +75,15 @@
     margin : 20px ;
     padding : 20px ;
   }
-
   .slider {
-    width: 80%;
-    height: 80%;
+    width: 600px;
+    height: 400px;
     overflow: hidden;
     margin: 0 auto;
+
   }
   .slider-item {
-    width: 80%;
+    width: 600px;
     float: left;
   }
   img{
@@ -91,7 +91,7 @@
   }
   .slider-inner {
     width: 300%;
-    animation: slider 15s infinite ease;
+    animation: slider 30s infinite ease;
   }
   
   @keyframes slider {
