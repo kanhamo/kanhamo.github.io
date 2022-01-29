@@ -68,7 +68,8 @@
 }
 
 .image-vw {
-  width : 80vw ; 
+  max-width: 800px; 
+  min-width: 300px; 
 }
 
 .index_text {
