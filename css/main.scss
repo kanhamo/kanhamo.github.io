@@ -79,7 +79,7 @@
   
 /*--------画像サイズ調整---------*/
 img{
-	width:100%;
+	width:60%;
 }
 
 /*-----------height調整----------*/
@@ -108,11 +108,12 @@ img{
 /*------------------------------*/
 .slider {
   max-width: 1000px;
+  max-height: 400px;
   margin: 0 auto;
 }
 
 .slider img {
-  width: 60%;
+  width: 100%;
   height: 50vw;
   object-fit: cover;
 }
