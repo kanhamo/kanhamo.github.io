@@ -19,7 +19,7 @@ description: 関西鍵盤ハーモニカオーケストラは、大阪府高槻�
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kanhamo.github.io" # the base hostname & protocol for your site
-cover: "/assets/20200211-1.jpg"
+cover: ""
 logo: "/assets/logo2.jpg"
 permalink: "/:year/:month/:day/:title"
 
