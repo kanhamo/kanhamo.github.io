@@ -10,7 +10,7 @@ exclude:
 
 # Site settings
 title: "関西鍵盤ハーモニカオーケストラ【大阪府 高槻市】"
-subtitle: " "
+subtitle:
 email: kenhamo.orch@gmail.com
 name: kenhamo
 description: 関西鍵盤ハーモニカオーケストラは、大阪府高槻市で活動する鍵盤ハーモニカの楽団です。
@@ -20,7 +20,7 @@ description: 関西鍵盤ハーモニカオーケストラは、大阪府高槻�
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kanhamo.github.io" # the base hostname & protocol for your site
 cover: 
-logo: "/assets/logo2.jpg"
+logo: "/assets/logo.png"
 permalink: "/:year/:month/:day/:title"
 
 # Build settings
