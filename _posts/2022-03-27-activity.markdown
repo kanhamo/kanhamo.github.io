@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2022.03.27"
+title:  "2022.03.27 活動報告"
 date:   2022-03-27 
 categories: Activities
 cover: /assets/head.jpg
