@@ -9,11 +9,11 @@ public: true
 
 # 公演情報
 2022.05.29 自主野外ライブ  
-<img border="0" src="/assets/20220529_live.jpg">  
+<img border="2" src="/assets/20220529_live.jpg">  
 
 2022.06.12  
-<img border="0" src="/assets/20220612_live.jpg">    
-
+<img border="2" src="/assets/20220612_live.jpg">    
+  
 # 過去の公演情報
 2022.03.21 [第2回MUSIC SMILE「オルガン・ケンハモフェスタ+ピアノ」](https://kanhamo.github.io/2022/03/21/activity)  
 2021.12.22 [高槻市内認定こども園 お楽しみ会](https://kanhamo.github.io/2021/12/22/activity)  
