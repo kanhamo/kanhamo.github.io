@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "2020.11.05 活動報告"
-date:   2020-11-05 
+title:  "2020.12.13 活動報告"
+date:   2020-12-13 
 categories: Activities
 cover: /assets/head.jpg
 ---
