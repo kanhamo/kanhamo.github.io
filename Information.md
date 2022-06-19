@@ -8,8 +8,6 @@ public: true
 <img src="{{ site.baseurl }}/assets/kenhamo.jpg" class="profile">
 
 # 公演情報
-2022.06.12  
-<img border="2" src="/assets/20220612_live.jpg">    
   
 # 過去の公演情報
 2022.03.21 [第2回MUSIC SMILE「オルガン・ケンハモフェスタ+ピアノ」](https://kanhamo.github.io/2022/03/21/activity)  
@@ -19,7 +17,7 @@ public: true
 2020.11.05 [奈良県内小学校 文化鑑賞会](https://kanhamo.github.io/2020/11/05/activity)  
 2020.02.11 [五領地区福祉委員会様主催 ひとり暮らし高齢者慰安の会](https://kanhamo.github.io/2020/02/11/activity)  
 2022.05.29 [自主野外ライブ](https://kanhamo.github.io/2022/05/29/activity)  
-
+2022.06.12 [Live Barケセラ ワンマンライブ](https://kanhamo.github.io/2022/06/12/activity)
   
 
 公演のご依頼は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSeOdIlDB3uChvhrr9F543WjyJz2orR1FHCYdYVnwKcQU6wVcg/viewform)からか、kenhamo.orch@gmail.comにお問い合わせ下さい。
