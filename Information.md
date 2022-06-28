@@ -8,7 +8,7 @@ public: true
 <img src="{{ site.baseurl }}/assets/kenhamo.jpg" class="profile">
 
 # 公演情報
-2022.08.13 [大阪ガーデンパレス様の夏祭り]()
+2022.08.13 [大阪ガーデンパレス様の夏祭り](https://kanhamo.github.io/2022/06/28/activity)
 
 # 過去の公演情報
 2022.03.21 [第2回MUSIC SMILE「オルガン・ケンハモフェスタ+ピアノ」](https://kanhamo.github.io/2022/03/21/activity)  
