@@ -8,7 +8,6 @@ public: true
 <img src="{{ site.baseurl }}/assets/kenhamo.jpg" class="profile">
 
 # 公演情報
-2022.08.13 [大阪ガーデンパレス様の夏祭り](https://kanhamo.github.io/2022/06/28/activity)
 2022.09.23 大阪府吹田市 オルガン・ケンハモ＋ピアノFES vol.3  
 2022.10.19 奈良県内小学校　芸術文化鑑賞
 2022.11.03 京都府亀岡市 第4回亀岡ジャズ・ストリート
@@ -22,6 +21,7 @@ public: true
 2020.02.11 [五領地区福祉委員会様主催 ひとり暮らし高齢者慰安の会](https://kanhamo.github.io/2020/02/11/activity)  
 2022.05.29 [自主野外ライブ](https://kanhamo.github.io/2022/05/29/activity)  
 2022.06.12 [Live Barケセラ ワンマンライブ](https://kanhamo.github.io/2022/06/12/activity)
-  
+2022.08.13 [大阪ガーデンパレス様の夏祭り](https://kanhamo.github.io/2022/08/13/activity)
+ 
 
 公演のご依頼は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSeOdIlDB3uChvhrr9F543WjyJz2orR1FHCYdYVnwKcQU6wVcg/viewform)からか、kenhamo.orch@gmail.comにお問い合わせ下さい。
