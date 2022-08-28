@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "活動報告"
+title:  "2022.07.21 活動報告"
 date:   2022-07-21 
 categories: News
 cover: /assets/head.jpg
