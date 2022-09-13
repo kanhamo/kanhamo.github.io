@@ -8,7 +8,7 @@ public: true
 <img src="{{ site.baseurl }}/assets/kenhamo.jpg" class="profile">
 
 # 公演情報
-2022.09.23 大阪府吹田市 オルガン・ケンハモ＋ピアノFES vol.3  
+2022.09.23 [大阪府吹田市 オルガン・ケンハモ＋ピアノFES vol.3](https://kanhamo.github.io/2022/09/13/activity)  
 2022.10.19 奈良県内小学校　芸術文化鑑賞
 2022.11.03 京都府亀岡市 第4回亀岡ジャズ・ストリート
   

@@ -9,7 +9,11 @@ public: true
 
 # 演奏動画
 
-  
+##  2022年前半 主な演奏活動
+2022年1月～6月のライブ動画を集めてダイジェスト編集しました。  
+<div class="frame-wrapper__video">
+  <iframe src="https://www.youtube.com/embed/vZkYBfg7ivk" frameborder="0" allowfullscreen></iframe>
+</div> 
  
 ## カイト（嵐）
 東京オリンピック開催の記念の年に、心を込めて、演奏させていただきました。  
@@ -24,3 +28,5 @@ NHK2020ソング「カイト（嵐）」
 <div class="frame-wrapper__video">
   <iframe src="https://www.youtube.com/embed/_XMtogH5phI" frameborder="0" allowfullscreen></iframe>
 </div>
+
+
