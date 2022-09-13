@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "第3回MUSICSMILE 「ORGAN KENHAMO FESTA+PIANO 」 "
+title:  "第3回MUSICSMILE 「ORGAN KENHAMO FESTA+PIANO 」出演のお知らせ "
 date:   2022-09-13 
 categories: News
 cover: /assets/head.jpg
@@ -20,6 +20,5 @@ cover: /assets/head.jpg
 https://t.livepocket.jp/e/liw0_
 どうぞよろしくお願い致します  
    
-<img border="0" src="/assets/20220908-2.jpg">  
 <img border="0" src="/assets/20220908-3.jpg">    
 <img border="0" src="/assets/20220908-4.jpg"> 

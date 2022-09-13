@@ -2,7 +2,7 @@
 layout: post
 title:  "大阪ガーデンパレス様のサマーフェスタ（夏祭り）"
 date:   2022-08-13 
-categories: News
+categories: Activities
 cover: /assets/20220813-1.jpg
 ---
 
