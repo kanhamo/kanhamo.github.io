@@ -21,7 +21,7 @@ public: true
 2022.05.29 [自主野外ライブ](https://kanhamo.github.io/2022/05/29/activity)  
 2022.06.12 [Live Barケセラ ワンマンライブ](https://kanhamo.github.io/2022/06/12/activity)
 2022.08.13 [大阪ガーデンパレス様の夏祭り](https://kanhamo.github.io/2022/08/13/activity)
-2022.09.23 [大阪府吹田市 オルガン・ケンハモ＋ピアノFES vol.3](https://kanhamo.github.io/2022/09/13/activity)  
+2022.09.23 [大阪府吹田市 オルガン・ケンハモ＋ピアノFES vol.3](https://kanhamo.github.io/2022/09/23/activity)  
  
 
 公演のご依頼は[こちら](https://docs.google.com/forms/d/e/1FAIpQLSeOdIlDB3uChvhrr9F543WjyJz2orR1FHCYdYVnwKcQU6wVcg/viewform)からか、kenhamo.orch@gmail.comにお問い合わせ下さい。
