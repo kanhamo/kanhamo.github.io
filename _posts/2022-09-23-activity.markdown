@@ -3,7 +3,7 @@ layout: post
 title:  "第3回MUSICSMILE「ORGAN KENHAMO FESTA+PIANO 」"
 date:   2022-09-23 
 categories: Activities
-cover: /assets/20220813-1.jpg
+cover: /assets/20220923-1.jpg
 ---
 
 9月23日（金祝）  
