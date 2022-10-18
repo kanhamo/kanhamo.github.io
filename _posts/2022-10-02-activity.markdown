@@ -3,7 +3,7 @@ layout: post
 title:  "2022.10.02 活動報告"
 date:   2022-10-02 
 categories: Activities
-cover: /assets/20220813-1.jpg
+cover: /assets/head.jpg
 ---
 
 10月2日（日）  
