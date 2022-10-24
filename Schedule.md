@@ -4,7 +4,7 @@ title: "スケジュール"
 public: true
 ---
 
-<img src="{{ site.baseurl }}/assets/kenhamo.jpg" class="profile">
+<img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
 <div class="gc_wrapper">
         <div class="responsive-iframe-container big-container"> 

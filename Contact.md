@@ -3,7 +3,7 @@ layout: page
 title: "お問い合わせ"
 permalink: /Contact/
 ---
-<img src="{{ site.baseurl }}/assets/kenhamo.jpg" class="profile">
+<img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
 お問い合わせの際には、先によくある質問をご確認ください。
 

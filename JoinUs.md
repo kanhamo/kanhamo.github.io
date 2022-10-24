@@ -5,7 +5,7 @@ permalink: /JoiuUs/
 
 ---
 
-<img src="{{ site.baseurl }}/assets/kenhamo.jpg" class="profile">
+<img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
 ### 2018年9月に誕生した鍵盤ハーモニカだけオーケストラです。全国的にも大変珍しい楽団で一緒に演奏しませんか？
 

@@ -5,7 +5,7 @@ permalink: /Movies/
 public: true
 ---
 
-<img src="{{ site.baseurl }}/assets/kenhamo.jpg" class="profile">
+<img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
 # 演奏動画
 

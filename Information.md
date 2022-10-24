@@ -5,7 +5,7 @@ permalink: /Information/
 public: true
 ---
 
-<img src="{{ site.baseurl }}/assets/kenhamo.jpg" class="profile">
+<img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
 # 公演情報
 2022.10.19 奈良県内小学校　芸術文化鑑賞

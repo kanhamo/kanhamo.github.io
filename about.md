@@ -4,7 +4,7 @@ title: "楽団について"
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/kenhamo.jpg" class="profile">
+<img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
 
 ## 楽団について
