@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "2022.12.02 活動報告"
-date:   2022-12-02 
+title:  "2022.12.03 活動報告"
+date:   2022-12-03 
 categories: Activities
 cover: /assets/head.jpg
 ---
@@ -29,7 +29,7 @@ cover: /assets/head.jpg
 お気軽に[こちら](https://docs.google.com/forms/d/e/1FAIpQLSeOdIlDB3uChvhrr9F543WjyJz2orR1FHCYdYVnwKcQU6wVcg/viewform)からか、kenhamo.orch@gmail.comにお問い合わせ下さい。
   
   
-<img border="0" src="/assets/20221202-1.jpg">  
-<img border="0" src="/assets/20221202-2.jpg">  
-<img border="0" src="/assets/20221202-3.jpg">  
+<img border="0" src="/assets/20221203-1.jpg">  
+<img border="0" src="/assets/20221203-2.jpg">  
+<img border="0" src="/assets/20221203-3.jpg">  
 
