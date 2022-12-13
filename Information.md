@@ -9,8 +9,11 @@ public: true
 
 # 公演情報  
 2023.02.11 五領地区福祉委員会様主催 ひとり暮らし高齢者慰安の会   
-  
+2023.05.13 Livebarケセラ ワンマンライブ
+
+     
 # 過去の公演情報  
+2022.12.02 [Livebar ケセラ　関西鍵盤ハーモニカオーケストラ　クインテットライブ](https://kanhamo.github.io/2022/12/02/activity)   
 2022.11.03 [京都府亀岡市 第4回亀岡ジャズ・ストリート](https://kanhamo.github.io/2022/11/03/activity)   
 2022.10.19 [奈良県内小学校　芸術文化鑑賞](https://kanhamo.github.io/2022/10/19/activity)  
 2022.09.23 [大阪府吹田市 オルガン・ケンハモ＋ピアノFES vol.3](https://kanhamo.github.io/2022/09/23/activity)  
