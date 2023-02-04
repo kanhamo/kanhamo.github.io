@@ -8,6 +8,11 @@ public: true
 <img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
 # 演奏動画
+##  2022年後半 主な演奏活動
+2022年7月～12月のライブ動画を集めてダイジェスト編集しました。  
+<div class="frame-wrapper__video">
+  <iframe src="https://www.youtube.com/embed/MgCjsdI1QuM" frameborder="0" allowfullscreen></iframe>
+</div> 
 
 ##  2022年前半 主な演奏活動
 2022年1月～6月のライブ動画を集めてダイジェスト編集しました。  
