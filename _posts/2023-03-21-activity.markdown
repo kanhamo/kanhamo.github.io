@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Organ kenhamo plus piano FES vol4に参加します!"
-date:   2020-04-03
-categories: Information
-tags:	info
+date:   2023-03-21
+categories: News
 cover: /assets/kenhamologo.jpg
 
 ---
