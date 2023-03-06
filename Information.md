@@ -8,7 +8,7 @@ public: true
 <img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
 # 公演情報  
-2023.03.21 [Organ kenhamo plus piano FES vol4](https://kanhamo.github.io/2023/03/21/activity) 
+2023.03.21 [Organ kenhamo plus piano FES vol4](https://kanhamo.github.io/2023/03/06/activity)   
 2023.05.13 Livebarケセラ ワンマンライブ
 
      
