@@ -8,11 +8,12 @@ public: true
 <img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
 # 公演情報  
-2023.03.21 [Organ kenhamo plus piano FES vol4](https://kanhamo.github.io/2023/03/06/activity)   
-2023.05.13 Livebarケセラ ワンマンライブ
+
 
      
 # 過去の公演情報  
+2023.03.21 [Organ kenhamo plus piano FES vol4](https://kanhamo.github.io/2023/03/21/activity)   
+2023.05.13 Livebarケセラ ワンマンライブ
 2023.02.11 [五領地区福祉委員会様主催 ひとり暮らし高齢者慰安の会](https://kanhamo.github.io/2023/02/11/activity)
 2023.01.23 [奈良県内の認定こども園さんの芸術鑑賞会](https://kanhamo.github.io/2023/01/23/activity)
 2022.12.03 [Livebar ケセラ　関西鍵盤ハーモニカオーケストラ　クインテットライブ](https://kanhamo.github.io/2022/12/02/activity)   
