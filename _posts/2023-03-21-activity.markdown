@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "活動報告"
+title:  "Organ kenhamo plus piano FES vol4 に参加しました"
 date:   2023-03-21 
 categories: Activities
-cover: /assets/head.jpg
+cover: /assets/20230321-cover.jpg
 ---
   
 3/21（火祝）大阪府吹田市  
@@ -23,7 +23,7 @@ Organ kenhamo plus piano FES vol4
 「ピッチについて語ろう」  
 （タイトルの絵は団長の娘さん（小3）が書いてくれました。）  
 をさせていただきました。  
-￼
+  
 次回は、  
 Organ kenhamo plus piano FESの会場でもある  
 Live  Barケセラさんで、  
