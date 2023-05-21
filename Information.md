@@ -12,6 +12,7 @@ public: true
 
      
 # 過去の公演情報  
+2023.05.13 [関西鍵盤ハーモニカオーケストラcube ライブ](https://kanhamo.github.io/2023/05/13/activity)   
 2023.03.21 [Organ kenhamo plus piano FES vol4](https://kanhamo.github.io/2023/03/21/activity)   
 2023.05.13 Livebarケセラ ワンマンライブ
 2023.02.11 [五領地区福祉委員会様主催 ひとり暮らし高齢者慰安の会](https://kanhamo.github.io/2023/02/11/activity)
