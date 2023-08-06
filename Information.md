@@ -8,7 +8,7 @@ public: true
 <img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
 # 公演情報  
-
+2023.09.17  大阪府吹田市 オルガン・ケンハモ＋ピアノFES vol.5
 
      
 # 過去の公演情報  
