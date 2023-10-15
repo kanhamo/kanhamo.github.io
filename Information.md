@@ -8,10 +8,11 @@ public: true
 <img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
 # 公演情報  
-2023.09.17  [大阪府吹田市 オルガン・ケンハモ＋ピアノFES vol.5](https://kanhamo.github.io/2023/08/29/activity)
+2023.10.22 [アクトドームライブ](https://kanhamo.github.io/2023/10/15/information)
 
      
 # 過去の公演情報  
+2023.09.17 [大阪府吹田市 オルガン・ケンハモ＋ピアノFES vol.5](https://kanhamo.github.io/2023/08/29/activity)
 2023.05.13 [関西鍵盤ハーモニカオーケストラcube ライブ](https://kanhamo.github.io/2023/05/13/activity)   
 2023.03.21 [Organ kenhamo plus piano FES vol4](https://kanhamo.github.io/2023/03/21/activity)   
 2023.05.13 Livebarケセラ ワンマンライブ
