@@ -8,10 +8,16 @@ public: true
 <img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
 # 公演情報  
-2023.10.22 [アクトドームライブ](https://kanhamo.github.io/2023/10/15/information)
-
+2023.11.12 第39回 日吉台地区コミュニティ  ふれあい文化祭
+2023.12.09 枚方市内小学校
+2023.12.23 アンサンブルクロス クリスマスイヴイヴチャリティーコンサート
+2023.2.22 高槻市内こども園
+2023.2.27 高槻市内施設、音楽交流会
      
 # 過去の公演情報  
+2023.11.11 LiveBarケセラ
+2023.10.30 高槻市内施設、音楽交流会
+2023.10.22 [アクトドームライブ](https://kanhamo.github.io/2023/10/22/activity)
 2023.09.17 [大阪府吹田市 オルガン・ケンハモ＋ピアノFES vol.5](https://kanhamo.github.io/2023/08/29/activity)
 2023.05.13 [関西鍵盤ハーモニカオーケストラcube ライブ](https://kanhamo.github.io/2023/05/13/activity)   
 2023.03.21 [Organ kenhamo plus piano FES vol4](https://kanhamo.github.io/2023/03/21/activity)   
