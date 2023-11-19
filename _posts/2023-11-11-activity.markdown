@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "cubeのライブ"
+title:  "小編成cubeライブ"
 date:   2023-10-31 
 categories: Activities
 cover: /assets/head.jpg
