@@ -7,7 +7,13 @@ public: true
 
 <img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
-# 演奏動画
+# 演奏動画  
+##  鍵盤ハーモニカ14台による「トリプティーク」
+尊敬する芥川也寸志先生作曲の弦楽のための三楽章（トリプティーク）より第一楽章を、関西鍵盤ハーモニカオーケストラのメンバー14名で演奏致しました。 
+<div class="frame-wrapper__video">
+  <iframe src="https://www.youtube.com/embed/hBL_dzUWWck?si=4tlF_ID0Umc3HV8-" frameborder="0" allowfullscreen></iframe>
+</div> 
+  
 ##  2022年後半 主な演奏活動
 2022年7月～12月のライブ動画を集めてダイジェスト編集しました。  
 <div class="frame-wrapper__video">
