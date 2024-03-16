@@ -8,11 +8,12 @@ public: true
 <img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
 # 公演情報  
-  2024.03.17 ORGAN KENHAMO Plus PIANO FES Vol.6
+  2024.03.17 [ORGAN KENHAMO Plus PIANO FES Vol.6](https://kanhamo.github.io/2024/03/16/activity)
   
      
+
 # 過去の公演情報  
-2024.02.25 南港ポートタウンショッピングセンター 
+2024.02.25 南港ポートタウンショッピングセンター  
 2024.02.11 五領地区福祉委員会様主催 ひとり暮らし高齢者慰安の会  
 2024.02.22 高槻市内こども園  
 2023.12.23 アンサンブルクロス クリスマスイヴイヴチャリティーコンサート   
