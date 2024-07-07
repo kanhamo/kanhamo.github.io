@@ -19,7 +19,7 @@ public: true
      
 
 # 過去の公演情報  
- 2024.03.17 [ORGAN KENHAMO Plus PIANO FES Vol.6](https://kanhamo.github.io/2024/03/16/activity)  
+ 2024.03.17 [ORGAN KENHAMO Plus PIANO FES Vol.6](https://kanhamo.github.io/2024/03/17/activity)   
 2024.02.25 [南港ポートタウンショッピングセンター](https://kanhamo.github.io/2024/02/25/activity)  
 2024.02.11 [五領地区福祉委員会様主催 ひとり暮らし高齢者慰安の会](https://kanhamo.github.io/2024/02/11/activity)  
 2024.02.22 [高槻市内こども園](https://kanhamo.github.io/2024/02/22/activity)  
