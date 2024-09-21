@@ -8,9 +8,6 @@ public: true
 <img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
 # 公演情報  
-2024.07.16 茨木市内ご依頼コンサート  
-2024.07.20 枚方市内小学校鍵盤ハーモニカ指導  
-2024.08.06 高槻市内福祉施設でのボランティア演奏  
 2024.09.22 吹田市オルガンケンハモ＋ピアノフェスvol.7  
 2024.11.23 吹田市ライブバーケセラさん（出演:「クインテット＋」下條、広川、薬師寺、出口、竹本、山口、和田） 開場17:30、開演18:00  
 
@@ -19,7 +16,10 @@ public: true
      
 
 # 過去の公演情報  
- 2024.03.17 [ORGAN KENHAMO Plus PIANO FES Vol.6](https://kanhamo.github.io/2024/03/17/activity)   
+2024.07.16 茨木市内ご依頼コンサート  
+2024.07.20 枚方市内小学校鍵盤ハーモニカ指導  
+2024.08.06 高槻市内福祉施設でのボランティア演奏  
+2024.03.17 [ORGAN KENHAMO Plus PIANO FES Vol.6](https://kanhamo.github.io/2024/03/17/activity)   
 2024.02.25 [南港ポートタウンショッピングセンター](https://kanhamo.github.io/2024/02/25/activity)  
 2024.02.11 [五領地区福祉委員会様主催 ひとり暮らし高齢者慰安の会](https://kanhamo.github.io/2024/02/11/activity)  
 2024.02.22 [高槻市内こども園](https://kanhamo.github.io/2024/02/22/activity)  

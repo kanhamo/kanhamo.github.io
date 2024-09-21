@@ -31,3 +31,4 @@ permalink: /about/
 ### SNS
 [Twitter](https://twitter.com/kansai_kenhamo)
 [Facebook](https://www.facebook.com/kenhamo.orch/)
+[Instagram](https://www.instagram.com/kansai_kenhamo_orch?igsh=MXM1bjY4ZjV2eTNuMA==)
