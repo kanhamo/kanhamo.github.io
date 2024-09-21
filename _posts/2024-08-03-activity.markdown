@@ -10,10 +10,8 @@ cover: /assets/head.jpg
 炊飯釜や缶などの日用品ドラム＆日用品パーカッションで演奏しました！！  
 こちらからご覧下さいませ  
 
-<div class="frame-wrapper__video">
-  <iframe src="https://youtu.be/Cx0nCpegUaQ?si=VimjS7RkukTazHkT" frameborder="0" allowfullscreen></iframe>
-</div> 
-  
+[![テキーラ](https://img.youtube.com/vi/Cx0nCpegUaQ/default.jpg)](https://youtu.be/Cx0nCpegUaQ?si=VimjS7RkukTazHkT)
+    
 【関西鍵盤ハーモニカオーケストラ】  
 「鍵盤ハーモニカ×日用品ドラムが織りなす唯一無二のサウンド」をコンセプトに、2018年に大阪府高槻市で誕生した鍵盤ハーモニカと日用品打楽器を演奏する楽団です。  
 ◆演奏のご依頼・お問い合わせ  
@@ -50,22 +48,18 @@ Facebook→ https://www.facebook.com/kenhamo.orch
 ◆ドローン撮影  
 アユート株式会社 代表取締役  　
 百津　勝美 様  
-aiuto television  AI トイドローン詳細  
-https://www.aiuto2007.com/fpv  
+[aiuto television  AI トイドローン](https://www.aiuto2007.com/fpv)  
   
 ◆撮影場所  
-ZELKOVA CAFE 様  
+[ZELKOVA CAFE 様 ](https://www.instagram.com/zelkovacafe?igsh=YnM4dGgydTJnbnV0) 
 大阪府大東市にある廃校をリノベーションされたフレンチバルのレストランです。  
-https://www.instagram.com/zelkovacafe?igsh=YnM4dGgydTJnbnV0  
+  
   
 【過去の演奏動画】　  
-弦楽のための三楽章（トリプティーク）  
-より第一楽章（芥川也寸志）  
-https://youtu.be/hBL_dzUWWck?si=yRwV_qV3hzI2FmBK  
-剣の舞（ハチャトゥリアン）  
-https://youtu.be/_XMtogH5phI?si=TjZg8MZ6AEhLJRzD  
-カイト（嵐）  
-https://youtu.be/XCASB76ML1w?si=wfOkkZjy-m8-ahus  
+[弦楽のための三楽章（トリプティーク）より第一楽章（芥川也寸志）](https://youtu.be/hBL_dzUWWck?si=yRwV_qV3hzI2FmBK)
+[剣の舞（ハチャトゥリアン）](https://youtu.be/_XMtogH5phI?si=TjZg8MZ6AEhLJRzD) 
+  
+[カイト（嵐）](https://youtu.be/XCASB76ML1w?si=wfOkkZjy-m8-ahus) 
   
 #鍵盤ハーモニカ  
 #日用品ドラム  
