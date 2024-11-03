@@ -17,7 +17,7 @@ public: true
 # 過去の公演情報  
 2024.11.03 ポートタウン唄の市 -鍵盤の会-  
 2024.10.24 五領地区福祉委員会様主催 福祉のつどい    
-2024.09.22 [ORGAN KENHAMO Plus PIANO FES Vol.7](https://kanhamo.github.io/2024/09/22/activity) 
+2024.09.22 [ORGAN KENHAMO Plus PIANO FES Vol.7](https://kanhamo.github.io/2024/09/22/activity)   
 2024.07.16 茨木市内ご依頼コンサート  
 2024.07.20 枚方市内小学校鍵盤ハーモニカ指導  
 2024.08.06 高槻市内福祉施設でのボランティア演奏  

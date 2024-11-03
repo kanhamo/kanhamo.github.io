@@ -10,8 +10,9 @@ cover: /assets/head.jpg
 今年もとても盛り上がりました✨  
   
   
-<video src="https://www.youtube.com/shorts/GeR6NfHbO74" controls="true"></video>
-  
+ <div>
+<iframe src="https://www.youtube.com/shorts/GeR6NfHbO74></iframe>
+</div> 
   
 #ハロウィン  
 #仮装  
@@ -20,7 +21,3 @@ cover: /assets/head.jpg
     
 演奏のご依頼、見学・練習参加ご希望の方は各練習日の前日迄に、お気軽に[こちら](https://docs.google.com/forms/d/e/  1FAIpQLSeOdIlDB3uChvhrr9F543WjyJz2orR1FHCYdYVnwKcQU6wVcg/viewform)からか、kenhamo.orch@gmail.comにお問い合わせ下さい。 
   
-<img border="0" src="/assets/20240922-1.jpg">  
-<img border="0" src="/assets/20240915-2.jpg">  
-<img border="0" src="/assets/20240915-3.jpg">  
-<img border="0" src="/assets/20240915-4.jpg">  
