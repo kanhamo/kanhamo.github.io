@@ -10,7 +10,7 @@ cover: /assets/head.jpg
 今年もとても盛り上がりました✨  
   
   
-<video src="https://youtube.com/shorts/GeR6NfHbO74?si=KK-kktRXAuwh2X9z" controls="true"></video>
+<video src="https://www.youtube.com/shorts/GeR6NfHbO74" controls="true"></video>
   
   
 #ハロウィン  
