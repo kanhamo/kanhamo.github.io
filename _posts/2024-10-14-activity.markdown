@@ -11,7 +11,7 @@ cover: /assets/head.jpg
   
   
 <div>
-<iframe src="https://www.youtube.com/embed/GeR6NfHbO74></iframe>
+<iframe src="https://www.youtube.com/embed/GeR6NfHbO74"></iframe>
 </div> 
   
 #ハロウィン  
