@@ -8,12 +8,12 @@ public: true
 <img src="{{ site.baseurl }}/assets/kenhamo.png" class="profile">
 
 # 公演情報  
-  
-〜2025年〜
-2025.2.20 高槻市内こども園ご依頼演奏  
-     
+       
 
 # 過去の公演情報  
+2025.3.23 [ORGAN KENHAMO plus PIANO Vol.8](https://kanhamo.github.io/2025/03/23/activity) 
+2025.2.20 [高槻市内こども園ご依頼演奏](https://kanhamo.github.io/2025/02/27/activity) 
+2025.2.11 [ひとり暮らし高齢者慰安の会](https://kanhamo.github.io/2025/02/11/activity)
 2024.12.15 [ホワイトコンサート](https://kanhamo.github.io/2024/12/15/activity)  
 2024.11.23 [吹田市ライブバーケセラさん（出演:「クインテット＋」下條、広川、薬師寺、出口、竹本、山口、和田） 開場17:30、開演18:00 ](https://kanhamo.github.io/2024/11/23/activity) 
 2024.11.03 ポートタウン唄の市 -鍵盤の会-  
