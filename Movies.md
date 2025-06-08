@@ -39,5 +39,16 @@ NHK2020ソング「カイト（嵐）」
 <div class="frame-wrapper__video">
   <iframe src="https://www.youtube.com/embed/_XMtogH5phI" frameborder="0" allowfullscreen></iframe>
 </div>
-
+　　
+##  鍵盤ハーモニカ17台と日用品による「テキーラ」　　
+鍵盤ハーモニカ17台と日用品による「テキーラ」です。  
+<div class="frame-wrapper__video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cx0nCpegUaQ?si=p6GWm1wVlsX-JJVy"  frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+　　
+##  鍵盤ハーモニカと日用品による「タイプライター」　　
+鍵盤ハーモニカと日用品による「タイプライター」です。  
+<div class="frame-wrapper__video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eK-z2T2_mNs?si=LvamdNX973vSY3mm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
