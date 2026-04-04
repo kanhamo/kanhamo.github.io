@@ -11,6 +11,11 @@ public: true
        
 
 # 過去の公演情報  
+2026.03.20 [ORGAN KENHAMO plus PIANO Vol.10](https://kanhamo.github.io/2026/03/20/activity)
+2026.02.19 [学校芸術鑑賞会](https://kanhamo.github.io/2026/02/19/activity)
+2026.02.11 [ひとり暮らし高齢者慰安の会](https://kanhamo.github.io/2026/02/11/activity)
+2026.12.27 [南港ポートタウンショッピングセンター様開催「唄の市」](https://kanhamo.github.io/2025/12/27/activity)
+2026.12.18 [認定こども園様での公演](https://kanhamo.github.io/2025/12/18/activity)
 2025.3.23 [ORGAN KENHAMO plus PIANO Vol.8](https://kanhamo.github.io/2025/03/23/activity) 
 2025.2.20 [高槻市内こども園ご依頼演奏](https://kanhamo.github.io/2025/02/27/activity) 
 2025.2.11 [ひとり暮らし高齢者慰安の会](https://kanhamo.github.io/2025/02/11/activity)
