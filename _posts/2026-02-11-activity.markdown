@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""  
+title:  "ひとり暮らし高齢者慰安の会"  
 date:   2026-02-11
 categories: Activities
 cover: /assets/head.jpg
